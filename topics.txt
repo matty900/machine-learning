@@ -1,0 +1,29 @@
+IMAGES 
+1. History, Defination,Image processing, Roadmap,Terminology, Installation
+2. Pixels, Channels, Reading image, Image shape, Saving image, Showing image, Numpy Coordinates, ROI, Slicing, 
+Convert Channels, Padding, Video capturing, Drawing shapes(line, rectangle, circle, text )
+3. Max & Min, Split & Merge, Border type, 
+4. Pixel transformation (addition, substraction, multiply, devide), Thresholding, color pixel extraction
+5. Histogram, img_ravel, , matplotlib,
+6. Image transformation, Resizing (upscale, downscale), Upsampling (nearest neighboour (max, averaging),
+,Area Interpolation) ,Bilinear Interpolation,  Downsampling (nearest neighbour max, Bilinear Filtering)
+7. Noise, Noise types( Gaussian noise • Salt and Pepper • Poisson noise • Speckle noise • Thermal noise),
+transformation(rotate, shear)
+8. Denoising, Denoising Techniques (Spatial Filtering Frequency Domain Filtering Advanced Methods), 
+Image Filtering (Convolution), Mean Denoising, 
+9. Feature Extraction, Color Detection Functions (cv2.namedWindow() cv2.resizeWindow() cv2.createTrackbar() 
+cv2.getTrackbarPos() cv2.inRange() cv2.bitwise_and() HSV) , Shape Feature Extraction
+10. Projects for Feature Extraction
+----------
+MACHINE LEARNING
+11. Definations, Machine Learning (supervised, unsupervised, Reinforcement learning), Pandas Library, 
+KNN Algorithm , Scikit-Learn Library
+12. KNN Algorithm
+13. Steps to Solve ML Problems
+14. Simple Linear Regression
+15. Normalization
+16. Mulitple Linear Regression (MLR)
+17. LinearRegression_GradientDescent
+18. Logistic Regression
+19. ML on images
+20. Perceptron and Neural Networks (Multi Layer Perceptron, Forward pass, backward pass)

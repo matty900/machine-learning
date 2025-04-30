@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+# Virtual Environment
+bin/
+lib/
+pyvenv.cfg
+include/
+share/
+CACHEDIR.TAG
+.Python
+*.pyc
+__pycache__/
+*.so
+knn_mnist_model.pkl
+S18/MNIST_Dataset/mnist_train.csv
+S18/MNIST_Dataset
